@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(548,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (main.cpp.vcxproj, Practica 1.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Estadistica.cpp
+  main.cpp
+  Generando código...
+  Practica 1.vcxproj -> C:\Users\Biblioteca Coto\EIF201-Programaci-n-I-IC2026\sesion02\Practica 1\x64\Debug\Practica 1.cpp.exe

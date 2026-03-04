@@ -1,0 +1,5 @@
+﻿  main.cpp
+  processName.cpp
+C:\Users\Biblioteca Coto\EIF201-Programaci-n-I-IC2026\sesion02\Ejercicio 4\Ejercicio 4\processName.cpp(60,33): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+  Ejercicio 4.vcxproj -> C:\Users\Biblioteca Coto\EIF201-Programaci-n-I-IC2026\sesion02\Ejercicio 4\x64\Debug\Ejercicio 4.exe

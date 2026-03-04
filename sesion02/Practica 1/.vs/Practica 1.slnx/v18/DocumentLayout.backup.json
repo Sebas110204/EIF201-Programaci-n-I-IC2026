@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Biblioteca Coto\\EIF201-Programaci-n-I-IC2026\\sesion02\\Practica 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E519D3C2-3D50-49DB-B8C5-FF1A974888DB}|Practica 1\\Practica 1.vcxproj|C:\\Users\\Biblioteca Coto\\EIF201-Programaci-n-I-IC2026\\sesion02\\Practica 1\\Practica 1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E519D3C2-3D50-49DB-B8C5-FF1A974888DB}|Practica 1\\Practica 1.vcxproj|solutionrelative:Practica 1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E519D3C2-3D50-49DB-B8C5-FF1A974888DB}|Practica 1\\Practica 1.vcxproj|C:\\Users\\Biblioteca Coto\\EIF201-Programaci-n-I-IC2026\\sesion02\\Practica 1\\Practica 1\\Estadistica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E519D3C2-3D50-49DB-B8C5-FF1A974888DB}|Practica 1\\Practica 1.vcxproj|solutionrelative:Practica 1\\Estadistica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E519D3C2-3D50-49DB-B8C5-FF1A974888DB}|Practica 1\\Practica 1.vcxproj|C:\\Users\\Biblioteca Coto\\EIF201-Programaci-n-I-IC2026\\sesion02\\Practica 1\\Practica 1\\Estadistica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E519D3C2-3D50-49DB-B8C5-FF1A974888DB}|Practica 1\\Practica 1.vcxproj|solutionrelative:Practica 1\\Estadistica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estadistica.h",
+              "DocumentMoniker": "C:\\Users\\Biblioteca Coto\\EIF201-Programaci-n-I-IC2026\\sesion02\\Practica 1\\Practica 1\\Estadistica.h",
+              "RelativeDocumentMoniker": "Practica 1\\Estadistica.h",
+              "ToolTip": "C:\\Users\\Biblioteca Coto\\EIF201-Programaci-n-I-IC2026\\sesion02\\Practica 1\\Practica 1\\Estadistica.h",
+              "RelativeToolTip": "Practica 1\\Estadistica.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-02T03:56:52.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estadistica.cpp",
+              "DocumentMoniker": "C:\\Users\\Biblioteca Coto\\EIF201-Programaci-n-I-IC2026\\sesion02\\Practica 1\\Practica 1\\Estadistica.cpp",
+              "RelativeDocumentMoniker": "Practica 1\\Estadistica.cpp",
+              "ToolTip": "C:\\Users\\Biblioteca Coto\\EIF201-Programaci-n-I-IC2026\\sesion02\\Practica 1\\Practica 1\\Estadistica.cpp",
+              "RelativeToolTip": "Practica 1\\Estadistica.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-02T03:56:52.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Biblioteca Coto\\EIF201-Programaci-n-I-IC2026\\sesion02\\Practica 1\\Practica 1\\main.cpp",
+              "RelativeDocumentMoniker": "Practica 1\\main.cpp",
+              "ToolTip": "C:\\Users\\Biblioteca Coto\\EIF201-Programaci-n-I-IC2026\\sesion02\\Practica 1\\Practica 1\\main.cpp",
+              "RelativeToolTip": "Practica 1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-25T21:45:27.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
